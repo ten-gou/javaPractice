@@ -1,0 +1,5 @@
+46728, a Savings account, has a current balance of 2700.0 and has accrued an interest of 108.0, bringing it to 2808.0.
+87324, a Checking account, has a current balance of 7689.0 and has accrued an interest of 230.67, bringing it to 7919.67.
+79873, a Savings account, has a current balance of 800.0. It does not have enough money to accrue interest.
+89832, a Checking account, has a current balance of 3000.0 and has accrued an interest of 150.0, bringing it to 3150.0.
+98322, a Checking account, has a current balance of 750.0. It does not have enough money to accrue interest.
